@@ -1,0 +1,7 @@
+ion-card {
+  width: 100%;
+}
+
+ion-textarea.custom {
+  --border-width: 0;
+}
